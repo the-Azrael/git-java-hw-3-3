@@ -5,8 +5,7 @@
 # Приветствие
 Привет всем!
 # Контакты
-|  Тип | Контакт |
-| --- | --- |
-| Телефон | +7 9222 22 22 22 |
-| Email | mail@gmail.com |
-| Telegram | @myTelega |
+
+* Телефон: +7 9222 22 22 22
+* Email: mail@gmail.com
+* Telegram: @myTelega
