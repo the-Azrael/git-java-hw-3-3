@@ -1,5 +1,7 @@
 # Фото
-![my photo](https://ibb.co/T82k3Z7)
+<img src="./photo/1111.png" alt="photo" width="100"/>
+
+<!--![my photo](./photo/1111.png) { width=20%,height:20px }-->
 # О себе
 Тусаев Максим
 # Приветствие
